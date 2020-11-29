@@ -1,0 +1,6 @@
+1.  Adjust the naming scheme to make more sense
+
+2.  Organize/structure code better (such as separate file for setup, easier to modify down the line), adjust gameplay loop to be more easier to read
+and moving aspects out into different functions (single responsibility)
+
+3.  Following from second point, needs better application of software design principles
